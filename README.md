@@ -9,4 +9,4 @@ the process of completing the course here and shall be updating the rest of the 
 - [Project 2: Data Modeling with Apache Cassandra: Sparkify song play logs ETL process](https://github.com/Kuriankkr/Udacity-Nanodegree-Data-Engineering/blob/master/Data%20Modelling/Project_Data_Modeling_with_Apache_Cassandra/Project_1B_%20Project_Template.ipynb)
 
 ## Part2: Data Warehouses in the Cloud
-- Project 3:
+- [Project 3: Data Warehouse with AWS Redshift: Sparkify - ETL process of song play events](https://github.com/Kuriankkr/Udacity-Nanodegree-Data-Engineering/tree/master/Cloud%20Data%20Warehouses/Project%20Data%20Warehouse)
