@@ -6,7 +6,7 @@ the process of completing the course here and shall be updating the rest of the 
 ## Part 1: Data Modelling
 - [Project 1: Data Modeling with Postgres: Sparkify song play logs ETL process](https://github.com/Kuriankkr/Udacity-Nanodegree-Data-Engineering/tree/master/Data%20Modelling/Data%20Modeling%20with%20Postgres:%20Sparkify%20song%20play%20logs%20ETL%20process)
 
-- [Project 2: Data Modeling with Apache Cassandra: Sparkify song play logs ETL process](https://github.com/Kuriankkr/Udacity-Nanodegree-Data-Engineering/tree/master/Data%20Modelling/Project_Data_Modeling_with_Apache_Cassandra)
+- [Project 2: Data Modeling with Apache Cassandra: Sparkify song play logs ETL process](https://github.com/Kuriankkr/Udacity-Nanodegree-Data-Engineering/blob/master/Data%20Modelling/Project_Data_Modeling_with_Apache_Cassandra/Project_1B_%20Project_Template.ipynb)
 
 ## Part2: Data Warehouses in the Cloud
 - Project 3:
