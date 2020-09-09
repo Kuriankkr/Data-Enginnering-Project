@@ -1,0 +1,15 @@
+## The links below are for staging area and staging tables
+
+https://ramareddydcp.wordpress.com/2017/02/12/what-is-staging-area-and-why-we-need-it-in-dwh/
+https://knowledge.udacity.com/questions/209135
+https://knowledge.udacity.com/questions/124682#124755
+
+## The links are below for requierement of json path for log data but not for song data
+https://knowledge.udacity.com/questions/144884
+https://knowledge.udacity.com/questions/214736
+https://docs.aws.amazon.com/en_en/redshift/latest/dg/copy-parameters-data-format.html#copy-json-jsonpaths
+
+Difference between IAM role and IAM user
+https://aws.amazon.com/iam/faqs/#:~:text=An%20IAM%20user%20has%20permanent,AWS%20service%20such%20as%20EC2.
+
+
