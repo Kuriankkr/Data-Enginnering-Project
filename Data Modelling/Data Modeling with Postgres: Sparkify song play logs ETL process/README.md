@@ -4,6 +4,8 @@ The purpose of this project is that a startup called Sparkify wants to analyze t
 
 This project extract, transform and loads 5 main informations (tables) from the Sparkify app (an app to listen to your favorite musics) logs:
 
+![Udacity_TablesJPG](https://github.com/Kuriankkr/Udacity-Nanodegree-Data-Engineering/blob/master/Cloud%20Data%20Warehouses/Project%20Data%20Warehouse/Udacity_TablesJPG.JPG)
+
 # Database Schema
 This schema used for this project is Star schema. There is one fact table and four dimensions table each with a primary key that has been referenced from the fact table. The reason to use relational database  is because the data is structured, the amount of data is not big enough for big data solutions, joins are also being used.
 
