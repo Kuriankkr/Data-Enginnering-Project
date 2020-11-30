@@ -1,6 +1,10 @@
 ###  Introduction
 
-A music streaming startup, Sparkify, has grown their user base and song database and want to move their processes and data onto the cloud. Their data resides in S3, in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
+A music streaming startup, Sparkify, has grown their user base and song database and want to move their processes and data onto the cloud. Their data resides in S3, in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app. This project thus requires script setting up a Data Warehouse on a Redshift cluster. 
+
+During this project a database and its relevant tables were setup. Before the final tables are setup there are intermediate staging tables setup. From which data is staging intp the final tables.
+
+![Udacity_Tables](https://github.com/Kuriankkr/Udacity-Nanodegree-Data-Engineering/blob/master/Cloud%20Data%20Warehouses/Project%20Data%20Warehouse/Udacity_Tables.JPG)
 
 ## Datasets
 
