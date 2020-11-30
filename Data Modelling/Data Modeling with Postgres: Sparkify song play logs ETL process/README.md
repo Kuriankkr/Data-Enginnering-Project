@@ -1,6 +1,6 @@
 # Introduction
 
-The purpose of this projet is that a startup called Sparkify wants to analyze the data that they have been collecting on songs and user activity on their new music streaming app. Their analytical goals in particularly include understanding what song users are listening to. 
+The purpose of this project is that a startup called Sparkify wants to analyze the data that they have been collecting on songs and user activity on their new music streaming app. Their analytical goals in particularly include understanding what song users are listening to. 
 
 This project extract, transform and loads 5 main informations (tables) from the Sparkify app (an app to listen to your favorite musics) logs:
 
