@@ -4,7 +4,7 @@ A music streaming startup, Sparkify, has grown their user base and song database
 
 During this project a database and its relevant tables were setup. Before the final tables are setup there are intermediate staging tables setup. From which data is staging intp the final tables.
 
-![Udacity_Tables](https://github.com/Kuriankkr/Udacity-Nanodegree-Data-Engineering/blob/master/Cloud%20Data%20Warehouses/Project%20Data%20Warehouse/Udacity_Tables.JPG)
+![Udacity_TablesJPG](https://github.com/Kuriankkr/Udacity-Nanodegree-Data-Engineering/blob/master/Cloud%20Data%20Warehouses/Project%20Data%20Warehouse/Udacity_TablesJPG.JPG)
 
 ## Datasets
 
