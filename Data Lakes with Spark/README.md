@@ -23,7 +23,7 @@ Apply the knowledge of Spark and Data Lakes to build and ETL pipeline for a Data
    
    The data should be transformed for creating the following tables
    
-   **** Fact Table:**** records in log data associated with song plays i.e. records with page NextSong
+   ***Fact Table:*** records in log data associated with song plays i.e. records with page NextSong
    songplay_id, start_time, user_id,level, song_id, artist_id, session_id, location, user_agent
     
    ****Dimensions Table:****
