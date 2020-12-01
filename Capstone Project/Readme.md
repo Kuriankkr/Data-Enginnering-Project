@@ -8,4 +8,7 @@ https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-da
 
 ***Immigration Data***: The immigration data was given by Udacity and hence I dont have the source for it
 
+## Database schema
+
+
 
