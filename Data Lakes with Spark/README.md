@@ -24,20 +24,25 @@ Apply the knowledge of Spark and Data Lakes to build and ETL pipeline for a Data
    The data should be transformed for creating the following tables
    
    ***Fact Table:*** records in log data associated with song plays i.e. records with page NextSong
+   
    songplay_id, start_time, user_id,level, song_id, artist_id, session_id, location, user_agent
     
    ****Dimensions Table:****
    
    - ****Users Table:****  users in the app
+   
     user_id, first_name, last_name, gender, level
     
    - ****Songs Table:****  songs in music database
+    
     song_id, title, artist_id, year, duration
     
    - ****Artists Table:****  artists in music database
+    
     artist_id, name, location, lattitude, longitude
     
    - ***Time Table:***  timestamps of records in songplays broken down into specific units
+    
     start_time, hour, day, week, month, year, weekday
 
 4) Load them back into the new s3 bucket
