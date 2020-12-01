@@ -43,3 +43,8 @@ Apply the knowledge of Spark and Data Lakes to build and ETL pipeline for a Data
 
 4) Load them back into the new s3 bucket
 
+### Files in the system
+- ***Creating tables:*** Python code for creating tables 
+- ***dwh.cfg:*** Contains credentials for AWS account
+- ***etl.py:*** Python code for staging data into tables
+
