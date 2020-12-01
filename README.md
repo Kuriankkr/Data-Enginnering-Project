@@ -10,3 +10,6 @@ the process of completing the course here and shall be updating the rest of the 
 
 ## Part2: Data Warehouses in the Cloud
 - [Project 3: Data Warehouse with AWS Redshift: Sparkify - ETL process of song play events](https://github.com/Kuriankkr/Udacity-Nanodegree-Data-Engineering/tree/master/Cloud%20Data%20Warehouses/Project%20Data%20Warehouse)
+
+## Part 3: Data Lakes with Spark
+
