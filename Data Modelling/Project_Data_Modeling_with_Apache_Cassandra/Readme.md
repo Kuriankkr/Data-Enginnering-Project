@@ -11,4 +11,5 @@ Aside from the keyspace, 3 tables were generated to allow Sparkify fulfill diffe
 
 ## Sample Queries
 - From ****Table 1:****
+
 SELECT sessionID, itemInSession, artist, song_title, song_length FROM song_session WHERE  sessionID  = 338 AND itemInSession = 4
