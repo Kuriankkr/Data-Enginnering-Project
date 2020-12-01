@@ -13,3 +13,9 @@ the process of completing the course here and shall be updating the rest of the 
 
 ## Part 3: Data Lakes with Spark
 - [Project 4: Big Data with Spark](https://github.com/Kuriankkr/Udacity-Nanodegree-Data-Engineering/tree/master/Data%20Lakes%20with%20Spark)
+
+## Part 4: Data Pipelines with Airflow
+- [Project 5: Data Piplines with Airflow](https://github.com/Kuriankkr/Udacity-Nanodegree-Data-Engineering/tree/master/Data%20Pipelines%20with%20Airflow)
+
+## Part 5: Captsone Project
+
