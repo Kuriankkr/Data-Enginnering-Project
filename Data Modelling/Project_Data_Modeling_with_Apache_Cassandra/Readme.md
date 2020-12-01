@@ -11,10 +11,10 @@ Aside from the keyspace, 3 tables were generated to allow Sparkify fulfill diffe
 
 ## Sample Queries
 - From ****Table 1:****
-  ****SELECT sessionID, itemInSession, artist, song_title, song_length FROM song_session WHERE  sessionID  = 338 AND itemInSession = 4
+  ****SELECT sessionID, itemInSession, artist, song_title, song_length FROM song_session WHERE  sessionID  = 338 AND itemInSession = 4****
   
 - From ****Table 2:****
-  ****SELECT itemInSession, artist, song, firstName, lastName FROM userlib WHERE userId = 10 AND sessionId = 182
+  ****SELECT itemInSession, artist, song, firstName, lastName FROM userlib WHERE userId = 10 AND sessionId = 182****
 
 - From ****Table 3:****
-  ****SELECT firstName, lastName FROM app_history WHERE song = 'All Hands Against His Own'
+  ****SELECT firstName, lastName FROM app_history WHERE song = 'All Hands Against His Own'****
