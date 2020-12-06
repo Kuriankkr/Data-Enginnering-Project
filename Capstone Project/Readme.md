@@ -16,5 +16,6 @@ https://travel.trade.gov/research/reports/i94/historical/2016.html
 
 
 ## Database schema
+![Dim Table](https://github.com/Kuriankkr/Udacity-Nanodegree-Data-Engineering/blob/master/Capstone%20Project/Dim%20Table.JPG)
 
 
