@@ -17,4 +17,5 @@ This repository here is has the projects that I have been doing as a part of the
 - [Project 5: Data Piplines with Airflow](https://github.com/Kuriankkr/Udacity-Nanodegree-Data-Engineering/tree/master/Data%20Pipelines%20with%20Airflow)
 
 ## Part 5: Captsone Project
+- [Project 6: Capstone Project](https://github.com/Kuriankkr/Udacity-Nanodegree-Data-Engineering/tree/master/Capstone%20Project)
 
