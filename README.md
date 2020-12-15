@@ -35,6 +35,7 @@ This repository contains the projects that I have done as a part of the **Udacit
 ---
 
 ## Technologies Used
+---
 
 <p>
   <img width="200" height = "200" align='left' src="https://github.com/Kuriankkr/Udacity-Nanodegree-Data-Engineering/blob/master/Images/Amazon_s3.png">
