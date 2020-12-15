@@ -1,7 +1,7 @@
 # Udacity-Nanodegree-Data-Enginnering
 
 ## Overview
-This repository contains the projects that I have done as a part of the **Udacity Nanodegree Data Engineering program**. This course taught me to the need for databases, how to design one, the need for Apache Spark and when it should be used. It also taught me how industries use Apache Airflow and how to build a data pipeline using this library. I finally had to do my capstone project that required me to design and build a database and inject data into it.
+This repository contains the projects that I have done as a part of the **Udacity Nanodegree Data Engineering program**. This course taught me to the need for databases, how to design one, the need for Apache Spark and how to leverage it using Spark. It also taught me how industries use Apache Airflow and how to build a data pipeline using this library. I finally had to do my capstone project that required me to design and build a database and inject data into it.
 
 ---
 
@@ -46,10 +46,6 @@ This repository contains the projects that I have done as a part of the **Udacit
 
 <p>
   <img width="200" height = "200" align='left' src="https://github.com/Kuriankkr/Udacity-Nanodegree-Data-Engineering/blob/master/Images/Apache%20Spark.png">
-</p>
-
-<p>
-  <img width="200" height = "200" align='left' src="https://github.com/Kuriankkr/Udacity-Nanodegree-Data-Engineering/blob/master/Images/EC2.jpg">
 </p>
 
 <p>
