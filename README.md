@@ -61,6 +61,6 @@ This repository contains the projects that I have done as a part of the **Udacit
 </p>
 
 <p>
-  <img width="200" height = "200" align='left' src="https://github.com/Kuriankkr/Udacity-Nanodegree-Data-Engineering">
+  <img width="200" height = "200" align='left' src="https://github.com/Kuriankkr/Udacity-Nanodegree-Data-Engineering/blob/master/Images/Amazon_redshift.png">
 </p>
 
